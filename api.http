@@ -1,0 +1,6 @@
+POST http://localhost:8000/api/url/generateshorturl
+Content-Type: application/json
+
+{
+  "redirectURL": "https://slashmark.cloud/dashfullstackwebdevelopmentinternship.php"
+}
